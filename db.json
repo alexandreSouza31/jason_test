@@ -33,8 +33,59 @@
       "services": [],
       "id": 3
     },
-   
-   
+    {
+      "name": "eee",
+      "budget": "333",
+      "category": {
+        "id": "2",
+        "name": "Trabalho"
+      },
+      "planeG": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Trabalho"
+      },
+      "planeG": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "eeee",
+      "budget": "4444",
+      "category": {
+        "id": "1",
+        "name": "Lazer"
+      },
+      "planeG": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "rio2",
+      "budget": "222",
+      "category": {
+        "id": "1",
+        "name": "Lazer"
+      },
+      "planeG": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "ribeirinho de las nieves cunshhah",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Outros"
+      },
+      "planeG": 0,
+      "services": [],
+      "id": 8
+    }
   ],
   "categories": [
     {
